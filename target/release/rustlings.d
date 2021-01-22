@@ -1,0 +1,1 @@
+C:\Cygwin\home\Thai\ Nguyen\rust\rustlings\target\release\rustlings.exe: C:\Cygwin\home\Thai\ Nguyen\rust\rustlings\src\exercise.rs C:\Cygwin\home\Thai\ Nguyen\rust\rustlings\src\main.rs C:\Cygwin\home\Thai\ Nguyen\rust\rustlings\src\run.rs C:\Cygwin\home\Thai\ Nguyen\rust\rustlings\src\ui.rs C:\Cygwin\home\Thai\ Nguyen\rust\rustlings\src\verify.rs

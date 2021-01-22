@@ -1,0 +1,15 @@
+c:\Cygwin\home\Thai Nguyen\rust\rustlings\target\rls\debug\deps\escargot-a7fd87ee54b4a89e.rmeta: C:\Users\Thai\ Nguyen\.cargo\registry\src\github.com-1ecc6299db9ec823\escargot-0.4.0\src\lib.rs C:\Users\Thai\ Nguyen\.cargo\registry\src\github.com-1ecc6299db9ec823\escargot-0.4.0\src\build.rs C:\Users\Thai\ Nguyen\.cargo\registry\src\github.com-1ecc6299db9ec823\escargot-0.4.0\src\cargo.rs C:\Users\Thai\ Nguyen\.cargo\registry\src\github.com-1ecc6299db9ec823\escargot-0.4.0\src\msg.rs C:\Users\Thai\ Nguyen\.cargo\registry\src\github.com-1ecc6299db9ec823\escargot-0.4.0\src\run.rs C:\Users\Thai\ Nguyen\.cargo\registry\src\github.com-1ecc6299db9ec823\escargot-0.4.0\src\error.rs C:\Users\Thai\ Nguyen\.cargo\registry\src\github.com-1ecc6299db9ec823\escargot-0.4.0\src\format\mod.rs C:\Users\Thai\ Nguyen\.cargo\registry\src\github.com-1ecc6299db9ec823\escargot-0.4.0\src\format\diagnostic.rs c:\Cygwin\home\Thai\ Nguyen\rust\rustlings\target\rls\debug\build\escargot-9ad3a0b08f7ce7fb\out/current_target.txt
+
+c:\Cygwin\home\Thai Nguyen\rust\rustlings\target\rls\debug\deps\escargot-a7fd87ee54b4a89e.d: C:\Users\Thai\ Nguyen\.cargo\registry\src\github.com-1ecc6299db9ec823\escargot-0.4.0\src\lib.rs C:\Users\Thai\ Nguyen\.cargo\registry\src\github.com-1ecc6299db9ec823\escargot-0.4.0\src\build.rs C:\Users\Thai\ Nguyen\.cargo\registry\src\github.com-1ecc6299db9ec823\escargot-0.4.0\src\cargo.rs C:\Users\Thai\ Nguyen\.cargo\registry\src\github.com-1ecc6299db9ec823\escargot-0.4.0\src\msg.rs C:\Users\Thai\ Nguyen\.cargo\registry\src\github.com-1ecc6299db9ec823\escargot-0.4.0\src\run.rs C:\Users\Thai\ Nguyen\.cargo\registry\src\github.com-1ecc6299db9ec823\escargot-0.4.0\src\error.rs C:\Users\Thai\ Nguyen\.cargo\registry\src\github.com-1ecc6299db9ec823\escargot-0.4.0\src\format\mod.rs C:\Users\Thai\ Nguyen\.cargo\registry\src\github.com-1ecc6299db9ec823\escargot-0.4.0\src\format\diagnostic.rs c:\Cygwin\home\Thai\ Nguyen\rust\rustlings\target\rls\debug\build\escargot-9ad3a0b08f7ce7fb\out/current_target.txt
+
+C:\Users\Thai\ Nguyen\.cargo\registry\src\github.com-1ecc6299db9ec823\escargot-0.4.0\src\lib.rs:
+C:\Users\Thai\ Nguyen\.cargo\registry\src\github.com-1ecc6299db9ec823\escargot-0.4.0\src\build.rs:
+C:\Users\Thai\ Nguyen\.cargo\registry\src\github.com-1ecc6299db9ec823\escargot-0.4.0\src\cargo.rs:
+C:\Users\Thai\ Nguyen\.cargo\registry\src\github.com-1ecc6299db9ec823\escargot-0.4.0\src\msg.rs:
+C:\Users\Thai\ Nguyen\.cargo\registry\src\github.com-1ecc6299db9ec823\escargot-0.4.0\src\run.rs:
+C:\Users\Thai\ Nguyen\.cargo\registry\src\github.com-1ecc6299db9ec823\escargot-0.4.0\src\error.rs:
+C:\Users\Thai\ Nguyen\.cargo\registry\src\github.com-1ecc6299db9ec823\escargot-0.4.0\src\format\mod.rs:
+C:\Users\Thai\ Nguyen\.cargo\registry\src\github.com-1ecc6299db9ec823\escargot-0.4.0\src\format\diagnostic.rs:
+c:\Cygwin\home\Thai\ Nguyen\rust\rustlings\target\rls\debug\build\escargot-9ad3a0b08f7ce7fb\out/current_target.txt:
+
+# env-dep:OUT_DIR=c:\\Cygwin\\home\\Thai Nguyen\\rust\\rustlings\\target\\rls\\debug\\build\\escargot-9ad3a0b08f7ce7fb\\out

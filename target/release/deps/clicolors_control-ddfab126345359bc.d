@@ -1,0 +1,10 @@
+C:\Cygwin\home\Thai Nguyen\rust\rustlings\target\release\deps\clicolors_control-ddfab126345359bc.rmeta: C:\Users\Thai\ Nguyen\.cargo\registry\src\github.com-1ecc6299db9ec823\clicolors-control-1.0.1\src\lib.rs C:\Users\Thai\ Nguyen\.cargo\registry\src\github.com-1ecc6299db9ec823\clicolors-control-1.0.1\src\common.rs C:\Users\Thai\ Nguyen\.cargo\registry\src\github.com-1ecc6299db9ec823\clicolors-control-1.0.1\src\terminfo.rs C:\Users\Thai\ Nguyen\.cargo\registry\src\github.com-1ecc6299db9ec823\clicolors-control-1.0.1\src\windows.rs
+
+C:\Cygwin\home\Thai Nguyen\rust\rustlings\target\release\deps\libclicolors_control-ddfab126345359bc.rlib: C:\Users\Thai\ Nguyen\.cargo\registry\src\github.com-1ecc6299db9ec823\clicolors-control-1.0.1\src\lib.rs C:\Users\Thai\ Nguyen\.cargo\registry\src\github.com-1ecc6299db9ec823\clicolors-control-1.0.1\src\common.rs C:\Users\Thai\ Nguyen\.cargo\registry\src\github.com-1ecc6299db9ec823\clicolors-control-1.0.1\src\terminfo.rs C:\Users\Thai\ Nguyen\.cargo\registry\src\github.com-1ecc6299db9ec823\clicolors-control-1.0.1\src\windows.rs
+
+C:\Cygwin\home\Thai Nguyen\rust\rustlings\target\release\deps\clicolors_control-ddfab126345359bc.d: C:\Users\Thai\ Nguyen\.cargo\registry\src\github.com-1ecc6299db9ec823\clicolors-control-1.0.1\src\lib.rs C:\Users\Thai\ Nguyen\.cargo\registry\src\github.com-1ecc6299db9ec823\clicolors-control-1.0.1\src\common.rs C:\Users\Thai\ Nguyen\.cargo\registry\src\github.com-1ecc6299db9ec823\clicolors-control-1.0.1\src\terminfo.rs C:\Users\Thai\ Nguyen\.cargo\registry\src\github.com-1ecc6299db9ec823\clicolors-control-1.0.1\src\windows.rs
+
+C:\Users\Thai\ Nguyen\.cargo\registry\src\github.com-1ecc6299db9ec823\clicolors-control-1.0.1\src\lib.rs:
+C:\Users\Thai\ Nguyen\.cargo\registry\src\github.com-1ecc6299db9ec823\clicolors-control-1.0.1\src\common.rs:
+C:\Users\Thai\ Nguyen\.cargo\registry\src\github.com-1ecc6299db9ec823\clicolors-control-1.0.1\src\terminfo.rs:
+C:\Users\Thai\ Nguyen\.cargo\registry\src\github.com-1ecc6299db9ec823\clicolors-control-1.0.1\src\windows.rs:

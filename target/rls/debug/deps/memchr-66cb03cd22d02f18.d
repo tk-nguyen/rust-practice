@@ -1,0 +1,11 @@
+c:\Cygwin\home\Thai Nguyen\rust\rustlings\target\rls\debug\deps\memchr-66cb03cd22d02f18.rmeta: C:\Users\Thai\ Nguyen\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.2.0\src\lib.rs C:\Users\Thai\ Nguyen\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.2.0\src\fallback.rs C:\Users\Thai\ Nguyen\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.2.0\src\iter.rs C:\Users\Thai\ Nguyen\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.2.0\src\naive.rs C:\Users\Thai\ Nguyen\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.2.0\src\x86\mod.rs C:\Users\Thai\ Nguyen\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.2.0\src\x86\avx.rs C:\Users\Thai\ Nguyen\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.2.0\src\x86\sse2.rs
+
+c:\Cygwin\home\Thai Nguyen\rust\rustlings\target\rls\debug\deps\memchr-66cb03cd22d02f18.d: C:\Users\Thai\ Nguyen\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.2.0\src\lib.rs C:\Users\Thai\ Nguyen\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.2.0\src\fallback.rs C:\Users\Thai\ Nguyen\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.2.0\src\iter.rs C:\Users\Thai\ Nguyen\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.2.0\src\naive.rs C:\Users\Thai\ Nguyen\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.2.0\src\x86\mod.rs C:\Users\Thai\ Nguyen\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.2.0\src\x86\avx.rs C:\Users\Thai\ Nguyen\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.2.0\src\x86\sse2.rs
+
+C:\Users\Thai\ Nguyen\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.2.0\src\lib.rs:
+C:\Users\Thai\ Nguyen\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.2.0\src\fallback.rs:
+C:\Users\Thai\ Nguyen\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.2.0\src\iter.rs:
+C:\Users\Thai\ Nguyen\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.2.0\src\naive.rs:
+C:\Users\Thai\ Nguyen\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.2.0\src\x86\mod.rs:
+C:\Users\Thai\ Nguyen\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.2.0\src\x86\avx.rs:
+C:\Users\Thai\ Nguyen\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.2.0\src\x86\sse2.rs:
