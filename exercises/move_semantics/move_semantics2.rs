@@ -23,4 +23,5 @@ fn fill_vec(vec: &mut Vec<i32>) -> Vec<i32> {
     vec.push(44);
     vec.push(66);
 
+    return vec.to_vec();
 }
