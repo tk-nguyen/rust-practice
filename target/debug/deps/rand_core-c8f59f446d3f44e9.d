@@ -1,0 +1,11 @@
+C:\Cygwin\home\Thai Nguyen\rust\rust-practice\target\debug\deps\rand_core-c8f59f446d3f44e9.rmeta: C:\Users\Thai\ Nguyen\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.4.0\src\lib.rs C:\Users\Thai\ Nguyen\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.4.0\src\error.rs C:\Users\Thai\ Nguyen\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.4.0\src\block.rs C:\Users\Thai\ Nguyen\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.4.0\src\impls.rs C:\Users\Thai\ Nguyen\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.4.0\src\le.rs
+
+C:\Cygwin\home\Thai Nguyen\rust\rust-practice\target\debug\deps\librand_core-c8f59f446d3f44e9.rlib: C:\Users\Thai\ Nguyen\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.4.0\src\lib.rs C:\Users\Thai\ Nguyen\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.4.0\src\error.rs C:\Users\Thai\ Nguyen\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.4.0\src\block.rs C:\Users\Thai\ Nguyen\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.4.0\src\impls.rs C:\Users\Thai\ Nguyen\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.4.0\src\le.rs
+
+C:\Cygwin\home\Thai Nguyen\rust\rust-practice\target\debug\deps\rand_core-c8f59f446d3f44e9.d: C:\Users\Thai\ Nguyen\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.4.0\src\lib.rs C:\Users\Thai\ Nguyen\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.4.0\src\error.rs C:\Users\Thai\ Nguyen\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.4.0\src\block.rs C:\Users\Thai\ Nguyen\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.4.0\src\impls.rs C:\Users\Thai\ Nguyen\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.4.0\src\le.rs
+
+C:\Users\Thai\ Nguyen\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.4.0\src\lib.rs:
+C:\Users\Thai\ Nguyen\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.4.0\src\error.rs:
+C:\Users\Thai\ Nguyen\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.4.0\src\block.rs:
+C:\Users\Thai\ Nguyen\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.4.0\src\impls.rs:
+C:\Users\Thai\ Nguyen\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.4.0\src\le.rs:
