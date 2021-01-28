@@ -1,13 +1,10 @@
 // iterators4.rs
 
-// I AM NOT DONE
 
 pub fn factorial(num: u64) -> u64 {
-    let num_list = vec![1..num];
-    num_list
-        .iter_mut()
-        .map(|x| x = x * (x + 1) )
-        .collect()[num];
+    (1..=num).product()
+
+
     // Complete this function to return the factorial of num
     // Do not use:
     // - return
